@@ -1,4 +1,3 @@
-Ashish Pujari
 
 LZW Compression Algorithm (Encoding and Decoding)
 
